@@ -1,20 +1,20 @@
 {
   "Header": {
-    "title": "Lorem ipsum",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "title": "Your Gateway to Seamless Sourcing",
+    "paragraph": "Seamless Solutions for Sourcing, Evaluation, and Shipping Worldwide."
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "At Source Redo, we are committed to delivering top-tier sourcing services that elevate your business to new heights. With a focus on efficiency, quality, and reliability, we ensure that your procurement process is seamless and tailored to your specific needs. Whether you're looking to strengthen your supply chain or improve your product portfolio, we provide services that you can trust to enhance your business reputation.",
     "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor"
+      "Unrivaled Commitment",
+      "Market Competitive Pricing",
+      "Prompt Order Progress Updates"
       
     ],
     "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco"
+      "Strict Quality Control",
+      "Global Freight Expertise",
+      "Efficient Conflict Management"
       
     ]
   },
@@ -67,46 +67,46 @@
   ],
   "Services": [
     {
-      "icon": "fa fa-wordpress",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-globe",
+      "name": "Product Procurement and Sourcing",
+      "text": "We source high-quality products globally, handling supplier negotiations, ensuring reliability, and providing cost-effective solutions tailored to your business needs."
     },
     {
-      "icon": "fa fa-cart-arrow-down",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-search",
+      "name": "Sample Evaluation",
+      "text": "We inspect and evaluate samples for quality, performance, and compliance, providing detailed reports to ensure the product meets your specifications before committing to full orders."
     },
     {
-      "icon": "fa fa-cloud-download",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-archive",
+      "name": "Sample Consolidation",
+      "text": "We streamline the shipping process by consolidating multiple samples into a single shipment, reducing costs and delivery times while simplifying supplier management."
     },
     {
-      "icon": "fa fa-language",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-check-square-o",
+      "name": "Inventory Inspection",
+      "text": "Our rigorous inventory inspections ensure your products meet the agreed quality standards, preventing defects and ensuring accuracy in quantities before shipment and distribution."
     },
     {
-      "icon": "fa fa-plane",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-camera",
+      "name": "Product Photography and Videography",
+      "text": "We offer professional photography and videography services that showcase your products with crisp, detailed visuals perfect for online stores, catalogs, and marketing campaigns."
     },
     {
-      "icon": "fa fa-pie-chart",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-truck",
+      "name": "Freight Forwarding (From China to Worldwide)",
+      "text": "We manage logistics, ensuring safe, efficient, and timely delivery of your products from China to global destinations, with flexible air, sea, and land freight options."
     }
   ],
   "Testimonials": [
     {
       "img": "img/testimonials/01.jpg",
       "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "name": "Mubeen Ali"
     },
     {
       "img": "img/testimonials/02.jpg",
       "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "name": "Uneeb Arshad"
     },
     {
       "img": "img/testimonials/03.jpg",
@@ -131,54 +131,59 @@
   ],
   "Team": [
     {
-      "img": "img/team/01.jpg",
-      "name": "John Doe",
-      "job": "Director"
+      "img": "img/team/1.jpg",
+      "name": "Mubeen Ali",
+      "job": "CEO and Founder"
     },
     {
-      "img": "img/team/02.jpg",
-      "name": "Mike Doe",
-      "job": "Senior Designer"
+      "img": "img/team/2.jpg",
+      "name": "Uneeb Arshad",
+      "job": "Co-founder and COO"
     },
     {
-      "img": "img/team/03.jpg",
-      "name": "Jane Doe",
-      "job": "Senior Designer"
+      "img": "img/team/3.jpg",
+      "name": "Abdullah Shahid",
+      "job": "Products procurement Officer"
     },
     {
-      "img": "img/team/04.jpg",
-      "name": "Karen Doe",
-      "job": "Project Manager"
+      "img": "img/team/4.jpg",
+      "name": "Ali Ammar",
+      "job": "Private Label Products procurement Officer"
+    },
+    {
+      "img": "img/team/5.jpg",
+      "name": "Kathy Cheng",
+      "job": "Wholesale Products procurement Officer"
     }
   ],
   "Contact": {
-    "address": "4321 California St, San Francisco, CA 12345 ",
+    "address": "4321 Islamabad St, Pakistan, CA 12345 ",
     "phone": "+1 123 456 1234",
     "email": "info@company.com",
-    "facebook": "fb.com",
-    "twitter": "twitter.com",
+    "facebook": "https://web.facebook.com/Sourceredo?_rdc=1&_rdr",
+    "twitter": "https://www.instagram.com/source_redo/",
     "youtube": "youtube.com"
   },
   "Features": [
     {
-      "icon": "fa fa-comments-o",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-thumbs-up",
+      "title": "Unrivaled Commitment",
+      "text": "We go above and beyond to ensure every step of your product journey is handled with dedication and care."
     },
     {
-      "icon": "fa fa-bullhorn",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-dollar",
+      "title": "Market Competitive Pricing",
+      "text": "Our pricing is designed to offer you the best value without compromising on quality or service."
     },
     {
-      "icon": "fa fa-group",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-clock-o",
+      "title": "Prompt Order Progress Updates",
+      "text": "Stay informed with real-time updates on your orders, ensuring transparency and peace of mind."
     },
     {
-      "icon": "fa fa-magic",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-shield",
+      "title": "Strict Quality Control and Conflict Management",
+      "text": "Our rigorous quality control process ensures your products meet the highest standards, and we proactively manage any conflicts that arise."
     }
   ]
 }

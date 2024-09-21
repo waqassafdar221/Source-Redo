@@ -11,10 +11,12 @@ export const Team = (props) => {
             dapibus leonec.
           </p>
         </div>
-        <div id="row">
+        <div id="row" style={{display: "inline-block"}}>
+        <div className="col-md-1 col-sm-6 team">
+          </div>
           {props.data
             ? props.data.map((d, i) => (
-                <div key={`${d.name}-${i}`} className="col-md-3 col-sm-6 team">
+                <div key={`${d.name}-${i}`} className="col-md-2 col-sm-6 team">
                   <div className="thumbnail">
                     {" "}
                     <img src={d.img} alt="..." className="team-img" />
@@ -26,6 +28,8 @@ export const Team = (props) => {
                 </div>
               ))
             : "loading"}
+            <div className="col-md-1 col-sm-6 team">
+            </div>
         </div>
       </div>
     </div>

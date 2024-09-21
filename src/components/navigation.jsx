@@ -17,8 +17,9 @@ export const Navigation = (props) => {
             <span className="icon-bar"></span>{" "}
             <span className="icon-bar"></span>{" "}
           </button>
-          <a className="navbar-brand page-scroll" href="#page-top">
-            Source Redo
+          {/* <img src="img/logo_red.png" alt="" /> */}
+          <a className="navbar-brand page-scroll" style={{marginTop:-13}} href="#page-top">
+          <img src="img/logo.png" alt="" style={{}}/>
           </a>{" "}
         </div>
 
