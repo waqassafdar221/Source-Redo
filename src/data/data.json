@@ -101,12 +101,12 @@
     {
       "img": "img/testimonials/01.jpg",
       "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Mubeen Ali"
+      "name": "Joe Root"
     },
     {
       "img": "img/testimonials/02.jpg",
       "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Uneeb Arshad"
+      "name": "Henry"
     },
     {
       "img": "img/testimonials/03.jpg",
@@ -132,7 +132,7 @@
   "Team": [
     {
       "img": "img/team/1.jpg",
-      "name": "Mubeen Ali",
+      "name": "Mubeen Naveed",
       "job": "CEO and Founder"
     },
     {
