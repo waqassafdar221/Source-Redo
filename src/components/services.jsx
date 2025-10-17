@@ -6,20 +6,23 @@ export const Services = (props) => {
       <div className="container">
         <div className="section-title">
           <h2>Our Services</h2>
-          {/* <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed
-            dapibus leonec.
-          </p> */}
+          <p className="section-subtitle">
+            Comprehensive solutions tailored to elevate your business
+          </p>
         </div>
-        <div className="row">
+        <div className="row services-grid">
           {props.data
             ? props.data.map((d, i) => (
-                <div key={`${d.name}-${i}`} className="col-md-4">
-                  {" "}
-                  <i className={d.icon}></i>
-                  <div className="service-desc">
-                    <h3>{d.name}</h3>
-                    <p>{d.text}</p>
+                <div key={`${d.name}-${i}`} className="col-md-4 col-sm-6">
+                  <div className="service-card">
+                    <div className="service-icon-wrapper">
+                      <i className={d.icon}></i>
+                    </div>
+                    <div className="service-content">
+                      <h3>{d.name}</h3>
+                      <p>{d.text}</p>
+                    </div>
+                    <div className="service-hover-overlay"></div>
                   </div>
                 </div>
               ))
