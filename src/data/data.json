@@ -95,6 +95,21 @@
       "icon": "fa fa-truck",
       "name": "Freight Forwarding (From China to Worldwide)",
       "text": "We manage logistics, ensuring safe, efficient, and timely delivery of your products from China to global destinations, with flexible air, sea, and land freight options."
+    },
+    {
+      "icon": "fa fa-shopping-cart",
+      "name": "eBay/Walmart One-Step Dropshipping",
+      "text": "Direct supplier-to-customer fulfillment for eBay and Walmart listings, with fast product listing, automated order routing, and policy-compliant operations."
+    },
+    {
+      "icon": "fa fa-exchange",
+      "name": "eBay/Walmart Two-Step Dropshipping",
+      "text": "Managed two-step workflows using an intermediate prep stage for relabeling, bundling, and compliant tracking, improving on-time metrics across marketplaces."
+    },
+    {
+      "icon": "fa fa-certificate",
+      "name": "Amazon Private Label",
+      "text": "End-to-end private label support: market research, supplier sourcing, branding and packaging, compliance, FNSKU prep, and FBA/FBM logistics."
     }
   ],
   "Testimonials": [
@@ -129,33 +144,12 @@
       "name": "Johnathan Doe(Singapore)"
     }
   ],
-  "Team": [
-    {
-      "img": "img/team/1.jpg",
-      "name": "Mubeen Naveed",
-      "job": "CEO and Founder"
-    },
-    {
-      "img": "img/team/2.jpg",
-      "name": "Uneeb Arshad",
-      "job": "Co-founder and COO"
-    },
-    {
-      "img": "img/team/3.jpg",
-      "name": "Abdullah Shahid",
-      "job": "Products procurement Officer"
-    },
-    {
-      "img": "img/team/4.jpg",
-      "name": "Ali Ammar",
-      "job": "Private Label Products procurement Officer"
-    },
-    {
-      "img": "img/team/5.jpg",
-      "name": "Kathy Cheng",
-      "job": "Wholesale Products procurement Officer"
-    }
-  ],
+  "Team": {
+    "img": "img/team/1.jpg",
+    "name": "Mubeen Naveed",
+    "designation": "Founder and CEO of SourceRedo",
+    "bio": "I'm Mubeen Naveed, Founder and CEO of SourceRedo, a China-based sourcing and logistics company helping global eCommerce sellers grow through reliable product sourcing, private labeling, and supply chain support.\n\nWith years of experience managing Walmart, eBay, and Amazon seller accounts, my goal has always been simple — to make sourcing from China transparent, efficient, and profitable for entrepreneurs worldwide.\n\nAt SourceRedo, we bridge the gap between trusted Chinese manufacturers and international sellers, ensuring quality, cost-efficiency, and on-time delivery — every single time."
+  },
   "Contact": {
     "address": "5900 Balcones Drive, STE 100  Austin TX 78731 ",
     "phone": "+17373073670",

@@ -1,36 +1,33 @@
 import React from "react";
 
 export const Team = (props) => {
+  const founder = props.data;
+  
   return (
-    <div id="team" className="text-center">
+    <div id="team" className="founder-section">
       <div className="container">
-        <div className="col-md-8 col-md-offset-2 section-title">
-          <h2>Meet the Team</h2>
-          <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed
-            dapibus leonec.
-          </p>
+        <div className="section-title text-center">
+          <h2>Our Founder</h2>
+          <p className="section-subtitle">Meet the visionary behind SourceRedo</p>
         </div>
-        <div id="row" style={{display: "inline-block"}}>
-        <div className="col-md-1 col-sm-6 team">
-          </div>
-          {props.data
-            ? props.data.map((d, i) => (
-                <div key={`${d.name}-${i}`} className="col-md-2 col-sm-6 team">
-                  <div className="thumbnail">
-                    {" "}
-                    <img src={d.img} alt="..." className="team-img" />
-                    <div className="caption">
-                      <h4>{d.name}</h4>
-                      <p>{d.job}</p>
-                    </div>
-                  </div>
-                </div>
-              ))
-            : "loading"}
-            <div className="col-md-1 col-sm-6 team">
+        {founder ? (
+          <div className="founder-content">
+            <div className="founder-image">
+              <img src={founder.img} alt={founder.name} />
             </div>
-        </div>
+            <div className="founder-details">
+              <h3 className="founder-name">{founder.name}</h3>
+              <p className="founder-designation">{founder.designation}</p>
+              <div className="founder-bio">
+                {founder.bio.split('\n\n').map((paragraph, i) => (
+                  <p key={i}>{paragraph}</p>
+                ))}
+              </div>
+            </div>
+          </div>
+        ) : (
+          <div className="text-center">loading</div>
+        )}
       </div>
     </div>
   );
